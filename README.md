@@ -8,3 +8,4 @@
 5. Switch current branch `git checkout branch_lab_1`
 ## Errors
 6. Changes were made in the branch **branch_lab_1**
+
